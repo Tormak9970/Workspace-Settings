@@ -1,0 +1,13 @@
+{
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.quoteStyle": "double",
+    "javascript.preferences.quoteStyle": "double"
+}
